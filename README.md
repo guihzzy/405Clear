@@ -12,7 +12,7 @@
 
 ## Instalação
 
-1. **Clique abaixo da opção "Releases":**
+1. **Procure e clique abaixo da opção "Releases":**
 
  <img align="center" alt="GIF" src="https://i.imgur.com/kcvAWyA.png">
 
